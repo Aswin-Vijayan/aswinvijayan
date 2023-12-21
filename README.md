@@ -2,7 +2,6 @@
 <h3 align="left">Connect with me:</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"></img>
 
-
 <p align="left">
 <a href="https://linkedin.com/in/aswin-vijayan-6b745b218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aswin-vijayan-6b745b218" height="30" width="40" /></a>
 </p>
