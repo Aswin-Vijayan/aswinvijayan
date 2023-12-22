@@ -39,6 +39,13 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
+<a href="https://github.com/aswin-vijayan" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40"/>
+</a>
+<!-- Prometheus -->
+<a href="https://prometheus.io/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="40" height="40"/>
+</a>
   <!-- Grafana -->
   <a href="https://grafana.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
@@ -91,6 +98,15 @@
   <a href="https://www.ansible.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40"/>
   </a>
+<!-- Terraform -->
+<a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/>
+</a>
+
+<!-- Packer -->
+<a href="https://www.packer.io/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/packerio/packerio-icon.svg" alt="packer" width="40" height="40"/>
+</a>
 </p>
 
 <p>
