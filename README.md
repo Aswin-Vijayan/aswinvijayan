@@ -111,6 +111,9 @@
 <a href="https://www.packer.io/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/packerio/packerio-icon.svg" alt="packer" width="40" height="40"/>
 </a>
+<a href="https://argoproj.github.io/argo-cd/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" alt="argo-cd" width="40" height="40"/>
+</a>
 </p>
 
 <p>
