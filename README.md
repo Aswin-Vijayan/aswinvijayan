@@ -18,7 +18,7 @@
   </a>
   <!-- Bash -->
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg" alt="bash" width="70" height="40"/>
   </a>
   <!-- CSS3 -->
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
@@ -30,22 +30,22 @@
   </a>
   <!-- Elastic -->
   <a href="https://www.elastic.co" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg" alt="elasticsearch" width="70" height="40"/>
   </a>
   <!-- Flask -->
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg" alt="flask" width="70" height="40"/>
   </a>
   <!-- Git -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git" width="70" height="40"/>
   </a>
 <a href="https://github.com/aswin-vijayan" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="github" width="70" height="40"/>
 </a>
 <!-- Prometheus -->
 <a href="https://prometheus.io/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-ar21.svg" alt="prometheus" width="60" height="60"/>
 </a>
   <!-- Grafana -->
   <a href="https://grafana.com" target="_blank" rel="noreferrer">
