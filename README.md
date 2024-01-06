@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aswin Vijayan</h1>
 
-<img align="center" alt="Coding" width="800" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <h3 align="left">Connect with me:</h3>
 
