@@ -138,7 +138,7 @@
 
 <!-- Trivy -->
 <a href="https://github.com/aquasecurity/trivy" target="_blank" rel="noreferrer">
-  <img src="https://github.com/aquasecurity/trivy/blob/main/docs/imgs/logo.png" alt="trivy" width="40" height="40"/>
+  <img src="https://github.com/aquasecurity/trivy/blob/main/docs/imgs/logo.png" alt="trivy" width="60" height="60"/>
 </a>
 </p>
 
