@@ -114,6 +114,11 @@
 <a href="https://argoproj.github.io/argo-cd/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" alt="argo-cd" width="40" height="40"/>
 </a>
+
+<!-- Consul -->
+<a href="https://www.consul.io/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/consulio/consulio-icon.svg" alt="consul" width="40" height="40"/>
+</a>
 </p>
 
 <p>
