@@ -135,6 +135,11 @@
 <a href="https://www.virtualbox.org/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" alt="virtualbox" width="40" height="40"/>
 </a>
+
+<!-- Trivy -->
+<a href="https://github.com/aquasecurity/trivy" target="_blank" rel="noreferrer">
+  <img src="https://github.com/aquasecurity/trivy/blob/main/docs/imgs/logo.png" alt="trivy" width="40" height="40"/>
+</a>
 </p>
 
 <p>
