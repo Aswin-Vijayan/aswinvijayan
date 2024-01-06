@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aswin Vijayan</h1>
 
+<img align="center" alt="Coding" width="800" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
 <h3 align="left">Connect with me:</h3>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left">
   <a href="https://linkedin.com/in/aswin-vijayan-6b745b218" target="blank">
@@ -118,6 +119,21 @@
 <!-- Consul -->
 <a href="https://www.consul.io/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/consulio/consulio-icon.svg" alt="consul" width="40" height="40"/>
+</a>
+
+<!-- Redis -->
+<a href="https://redis.io/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis" width="40" height="40"/>
+</a>
+
+<!-- Spring Framework -->
+<a href="https://spring.io/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
+</a>
+
+<!-- VirtualBox -->
+<a href="https://www.virtualbox.org/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" alt="virtualbox" width="40" height="40"/>
 </a>
 </p>
 
