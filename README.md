@@ -149,5 +149,5 @@
 <p>&nbsp;</p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aswin-vijayan&" alt="aswin-vijayan" />
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=aswin-vijayan&" alt="aswin-vijayan" />
 </p>
