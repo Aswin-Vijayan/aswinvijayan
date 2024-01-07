@@ -49,7 +49,7 @@
 </a>
   <!-- Grafana -->
   <a href="https://grafana.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/grafana/grafana-ar21.svg" alt="grafana" width="80" height="60"/>
   </a>
 <!-- Jira -->
 <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
