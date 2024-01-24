@@ -87,13 +87,17 @@
   <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="60" height="60"/>
   </a>
+  <!-- Apache -->
+  <a href="https://www.apache.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/apache/apache-ar21.svg" alt="apache" width="100" height="60"/>
+  </a>
   <!-- PostgreSQL -->
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg" alt="postgresql" width="140" height="40"/>
   </a>
   <!-- Python -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg" alt="python" width="90" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg" alt="python" width="100" height="40"/>
   </a>
   <!-- Vagrant -->
   <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer">
@@ -105,7 +109,7 @@
   </a>
 <!-- Terraform -->
 <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg" alt="terraform" width="90" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg" alt="terraform" width="100" height="50"/>
 </a>
 
 <!-- Packer -->
