@@ -146,6 +146,13 @@
 </a>
 </p>
 
+<h3 align="left">Certifications:</h3>
+<p align="left">
+  <a href="https://www.credly.com/badges/027fd7fe-f0f3-4ad5-a694-07866afe2c05/public_url" target="_blank">
+    <img src="https://github.com/aswin-vijayan/badges/blob/main/cka.png" alt="CKA Badge" width="100" height="100"/>
+  </a>
+</p>
+
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aswin-vijayan&show_icons=true&locale=en&layout=compact" alt="aswin-vijayan" />
 </p>
