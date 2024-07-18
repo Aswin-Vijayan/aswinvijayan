@@ -144,6 +144,12 @@
 <a href="https://github.com/aquasecurity/trivy" target="_blank" rel="noreferrer">
   <img src="https://github.com/aquasecurity/trivy/blob/main/docs/imgs/logo-horizontal.svg" alt="trivy" width="80" height="60"/>
 </a>
+
+<!-- Jaeger -->
+<a href="https://www.jaegertracing.io/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/jaegertracingio/jaegertracingio-ar21.svg" alt="jaeger" width="100" height="50"/>
+</a>
+
 </p>
 
 <h3 align="left">Certifications:</h3>
