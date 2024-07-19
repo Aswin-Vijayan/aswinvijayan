@@ -159,12 +159,7 @@
   </a>
 </p>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aswin-vijayan&show_icons=true&locale=en&layout=compact" alt="aswin-vijayan" />
-</p>
-
-<p>&nbsp;</p>
-
-<p>
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=aswin-vijayan&" alt="aswin-vijayan" />
-</p>
+<div style="display: flex; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aswin-vijayan&show_icons=true&locale=en&layout=compact" alt="aswin-vijayan" height="195" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aswin-vijayan&" alt="aswin-vijayan" height="195" />
+</div>
