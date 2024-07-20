@@ -150,6 +150,11 @@
   <img src="https://www.vectorlogo.zone/logos/jaegertracingio/jaegertracingio-ar21.svg" alt="jaeger" width="100" height="50"/>
 </a>
 
+<!-- GitHub Actions -->
+<a href="https://docs.github.com/en/actions" target="_blank" rel="noreferrer">
+  <img src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" alt="GitHub Actions" width="50" height="50"/>
+</a>
+
 </p>
 
 <h3 align="left">Certifications:</h3>
